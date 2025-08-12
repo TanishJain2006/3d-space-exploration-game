@@ -20,7 +20,8 @@ An interactive, educational, and fun 3D simulation of our solar system.
 - Physics calculations for orbital motion
 
 ## 📸 Screenshots
-*(Add images of your game here)*
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b57d3684-106d-406b-bea8-6b971112ea63" />
+
 
 ## 🚀 How to Run
 1. Clone the repo:  
